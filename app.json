@@ -1,0 +1,12 @@
+{
+  "name": "pathmate-task",
+  "displayName": "pathmate-task",
+  "expo": {
+    "name": "pathmate-task",
+    "slug": "pathmate-task",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
